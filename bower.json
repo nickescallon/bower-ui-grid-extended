@@ -1,0 +1,27 @@
+{
+  "name": "bower-ui-grid-extended",
+  "version": "3.0.7",
+  "homepage": "https://github.com/nickescallon/bower-ui-grid-extended",
+  "authors": [
+    "Nick Escallon <nickescallon@gmail.com>"
+  ],
+  "description": "ui-grid plus inter-release commits",
+  "main": [
+    "./less",
+    "./ui-grid.css",
+    "./ui-grid.eot",
+    "./ui-grid.js",
+    "./ui-grid.svg",
+    "./ui-grid.ttf",
+    "./ui-grid.woff"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "angular": ">=1.2.16 1.4.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickescallon/bower-ui-grid-extended.git"
+  },
+  "license": "MIT"
+}
